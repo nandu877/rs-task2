@@ -1,5 +1,5 @@
 class Prime{
     public static void main(String[] args) {
-        System.out.println("HElloo");
+        System.out.println("HElloo Jstar");
     }
 }
